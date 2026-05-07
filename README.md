@@ -23,16 +23,16 @@ This project is a deep learning based web application that detects brain tumors 
 ## Project Output
 
 ### Home Page
-![Home Page](screenshots/homepage.jpeg)
+![Home Page](Screenshots/homepage.jpeg)
 
 ### Glioma Tumor Detection
-![Glioma](screenshots/glioma.jpeg)
+![Glioma](Screenshots/glioma.jpeg)
 
 ### Meningioma Tumor Detection
-![Meningioma](screenshots/meningioma.jpeg)
+![Meningioma](Screenshots/meningioma.jpeg)
 
 ### No Tumor Detection
-![No Tumor](screenshots/noTumor.jpeg)
+![No Tumor](Screenshots/noTumor.jpeg)
 
 ## Installation
 
