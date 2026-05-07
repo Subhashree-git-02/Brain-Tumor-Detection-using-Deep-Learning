@@ -1,1 +1,45 @@
 # Brain Tumor Detection using Deep Learning 
+
+## Overview
+This project is a deep learning based web application that detects brain tumors from MRI images. The system predicts whether a tumor is present and identifies the tumor type using a trained VGG16 model.
+
+## Features
+- MRI image upload
+- Tumor detection
+- Tumor type classification
+- Confidence score prediction
+- User-friendly web interface
+
+## Technologies Used
+- Python
+- TensorFlow
+- Flask
+- HTML
+- CSS
+- JavaScript
+- VGG16
+
+
+## Project Output
+
+### Home Page
+![Home Page](screenshots/homepage.jpeg)
+
+### Glioma Tumor Detection
+![Glioma](screenshots/glioma.jpeg)
+
+### Meningioma Tumor Detection
+![Meningioma](screenshots/meningioma.jpeg)
+
+### No Tumor Detection
+![No Tumor](screenshots/noTumor.jpeg)
+
+## Installation
+
+```bash
+pip install -r requirements.txt
+python main.py
+```
+
+## Author
+Subhashree Sahoo
